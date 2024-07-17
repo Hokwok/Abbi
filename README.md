@@ -1,3 +1,3 @@
 # Abii
 
-- 展示地址：[https://hokwok.github.io/Abbi/](https://hokwok.github.io/Abbi/)
+- 展示地址：[https://hokwok.github.io/Abii/](https://hokwok.github.io/Abii/)
